@@ -1,3 +1,3 @@
 # hello-dom
-Test repo
-Adding text to this branch code for test
+Test local repos and push to github with a local web site.
+I will also test this on AWS S3
