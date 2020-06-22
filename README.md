@@ -1,3 +1,2 @@
 # hello-dom
-Test repo
-Adding text to this branch code for test
+Test repo for a simple local website.
